@@ -4,3 +4,6 @@
 # mdBook output
 Instructor/DMT1/book/*
 Instructor/DMT1/src/*
+.lake/packages/aesop
+.lake/packages/Cli
+.lake/packages/Qq
